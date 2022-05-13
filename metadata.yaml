@@ -1,0 +1,34 @@
+_repo: The-West-Point-Rivals-or-Mark-Mallory-s-Stratagem_68041
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sinclair, Upton
+    aliases:
+    - Sinclair, Upton Beall
+    - Fitch, Clarke
+    - Garrison, Frederick
+    birthdate: 1878
+    deathdate: 1968
+    gutenberg_agent_id: '88'
+    url: http://www.gutenberg.org/2009/agents/88
+    wikipedia: https://en.wikipedia.org/wiki/Upton_Sinclair
+description: ''
+gutenberg_issued: '2022-05-10'
+identifiers:
+  gutenberg: '68041'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/coo1.ark:/13960/t3cz3sg51
+pgterms:marc905: 20200730093616sinclair
+pgterms:marc906: '1903'
+pgterms:marc907: US
+production_note: Carol Brown, Tim Lindell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: United States :Street & Smith,1903.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The West Point Rivals: or, Mark Mallory''s Stratagem'
+url: http://www.gutenberg.org/ebooks/68041
